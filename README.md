@@ -1,6 +1,6 @@
-# 🦠 Adonis Edge
+# 🦠 Adonis Blockchain
 
-**Adonis Edge** is a high-performance, open-source, Ethereum-compatible blockchain framework developed by [Adonis Network](https://adonis.network).  
+**Adonis Blockchain** is a high-performance, open-source, Ethereum-compatible blockchain framework developed by [Adonis Network](https://adonis.network).  
 It empowers developers and enterprises to deploy secure, scalable, and customizable blockchain networks with integrated smart contract support.
 
 ---
@@ -40,15 +40,15 @@ It empowers developers and enterprises to deploy secure, scalable, and customiza
 Clone the repository and build:
 
 ```bash
-git clone https://github.com/AdonisNetwork/adonis-edge.git
-cd adonis-edge
+git clone https://github.com/AdonisNetwork/adonis-Blockchain.git
+cd adonis-Blockchain
 make build
 ```
 
 Run a local blockchain node:
 
 ```bash
-./bin/adonis-edge server --config ./config/genesis.json
+./bin/adonis-Blockchain server --config ./config/genesis.json
 ```
 
 ---
